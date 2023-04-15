@@ -18,7 +18,6 @@ public class Quazlat extends Application {
         topLBL.setAlignment(Pos.TOP_CENTER);
 
         mainBP.setTop(topLBL);
-
         stage.setTitle("Quazlat");
         stage.setScene(new Scene(mainBP));
         stage.show();
