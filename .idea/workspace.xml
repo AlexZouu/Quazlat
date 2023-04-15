@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44dfb7fd-0ffd-400f-9882-55d93686ae6d" name="Changes" comment="First Commit 2">
+    <list default="true" id="44dfb7fd-0ffd-400f-9882-55d93686ae6d" name="Changes" comment="Module">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +45,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/drago/IdeaProjects/lab-8-lightsout-AlexZouu",
-    "project.structure.last.edited": "Global Libraries",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Program Files/Java/javafx-sdk-20/lib",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "configurable.group.tools"
@@ -59,10 +61,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Quazlat" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/liberica-18.0.2.1" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-18.0.2.1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
       <option name="MAIN_CLASS_NAME" value="Quazlat.Quazlat" />
+      <module name="Quazlat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,7 +81,7 @@
       <updated>1681535967837</updated>
       <workItem from="1681535968953" duration="3543000" />
       <workItem from="1681539530708" duration="205000" />
-      <workItem from="1681539738591" duration="509000" />
+      <workItem from="1681539738591" duration="1114000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1681539261356</created>
@@ -108,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681539860445</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Module">
+      <created>1681540383558</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681540383558</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="First Commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit 2" />
+    <MESSAGE value="Module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module" />
   </component>
 </project>
