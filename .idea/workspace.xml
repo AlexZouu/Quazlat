@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44dfb7fd-0ffd-400f-9882-55d93686ae6d" name="Changes" comment="Module">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quazlat.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Quazlat/Quazlat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quazlat/Quazlat.java" afterDir="false" />
-    </list>
+    <list default="true" id="44dfb7fd-0ffd-400f-9882-55d93686ae6d" name="Changes" comment="Menu GUI Workingg" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +24,6 @@
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="70cca714-458b-4c9f-ae91-818e98c88a84" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Quazlat/Quazlat.java" root0="FORCE_HIGHLIGHTING" />
@@ -63,7 +53,7 @@
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -147,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681541231464</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Menu GUI Workingg">
+      <created>1683297614189</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683297614189</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +165,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="First Commit 2" />
     <MESSAGE value="Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module" />
+    <MESSAGE value="Menu GUI Workingg" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu GUI Workingg" />
   </component>
 </project>
